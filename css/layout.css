@@ -1,7 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .attribution {
@@ -27,6 +27,7 @@ h1 {
 
 .header-line-2 {
     font-weight: 600 !important;
+    color:hsl(234, 12%, 34%);
 }
 
 .header-description {
@@ -45,6 +46,7 @@ img {
 }
 
 .card {
+    color:hsl(234, 12%, 34%);
     width: 24rem;
     height: 16rem;
     border-top: 6px solid;
