@@ -33,6 +33,7 @@ h1 {
     text-align: center;
     max-width: 400px;
     margin: auto;
+    margin-top: 15px;
 }
 
 img {
@@ -40,7 +41,7 @@ img {
 }
 
 .card-container {
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .card {
@@ -53,6 +54,10 @@ img {
     padding: 28px 33px;
     margin: 10px;
     margin-top: 20px;
+}
+
+.card-text, .header-line-1, .header-description{
+    color: hsl(229, 6%, 66%);
 }
 
 #card-1 {
